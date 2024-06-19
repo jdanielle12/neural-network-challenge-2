@@ -1,1 +1,3 @@
-# neural-network-challenge-2
+# Employee Attrition and Department Prediction
+
+## Project Overview
